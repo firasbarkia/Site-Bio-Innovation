@@ -423,3 +423,14 @@ header .fa-bars{
         grid-template-columns: repeat(auto-fit,minmax(40%,1fr));
     }
 }
+
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #000000;
+  border-radius: 10px;
+}
